@@ -7,6 +7,8 @@
 import urllib
 import lxml.html
 import requests
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 baseurl = 'https://localhost:8089'
 username = 'admin'
