@@ -12,7 +12,7 @@ require([
             return cell.field === 'IMAGE';
         },
         render: function($td, cell) {
-            $td.html(_.template('<img src="<%-imgsrc%>" height="100"/>',{imgsrc:cell.value}));
+            $td.html(_.template('<img src="<%-imgsrc%>" style="height:200px !important;"/>',{imgsrc:cell.value}));
         }
     });
     mvc.Components.get('table1').getVisualization(function(tableView){
