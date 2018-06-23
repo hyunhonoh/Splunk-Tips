@@ -13,9 +13,9 @@ https://hyunhonoh.github.io/Splunk-Tips/
 
 
 - python2
-[getData2.py](https://raw.githubusercontent.com/hyunhonoh/Splunk-Tips/master/getData2.py)
+  - [getData2.py](https://raw.githubusercontent.com/hyunhonoh/Splunk-Tips/master/getData2.py)
 
 
 - python3
-[restapi_getdata.py](https://raw.githubusercontent.com/hyunhonoh/Splunk-Tips/master/restapi_getdata.py)
+  - [restapi_getdata.py](https://raw.githubusercontent.com/hyunhonoh/Splunk-Tips/master/restapi_getdata.py)
 
