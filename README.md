@@ -1,5 +1,5 @@
 # SplunkTips
-- Splunk를 사용할 때 도움 되느 스크립트
+- Splunk를 사용할 때 도움 되는 스크립트 모음
 
 https://hyunhonoh.github.io/Splunk-Tips/
 
